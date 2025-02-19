@@ -1294,7 +1294,7 @@ input, select, textarea {
 			width: 5.5rem;
 			height: 5.5rem;
 			border: solid 1px #ffffff;
-			border-radius: 50%;
+			border-radius: 0%;
 			display: flex;
 			justify-content: center;
 			align-items: center;
@@ -1303,7 +1303,7 @@ input, select, textarea {
 		}
 
 			#header .logo img {
-				width: 110%; /* Regola la dimensione dell'immagine */
+				width: 105%; /* Regola la dimensione dell'immagine */
 				height: auto;
 			}
 
