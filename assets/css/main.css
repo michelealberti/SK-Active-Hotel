@@ -1303,7 +1303,8 @@ input, select, textarea {
 		}
 
 			#header .logo img {
-				width: 105%; /* Regola la dimensione dell'immagine */
+				align-content:center;
+				width: 110%; /* Regola la dimensione dell'immagine */
 				height: auto;
 			}
 
